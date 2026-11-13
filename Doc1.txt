@@ -1,4 +1,4 @@
 DevOps Lab 
 This is my first file (Doc1.txt) created in VS Code for the Git Lab.
 
-There was a viva taken.
+This text was added while working on lab-branch.
